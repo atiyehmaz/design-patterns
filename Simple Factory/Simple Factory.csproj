@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>Simple_Factory</RootNamespace>
+    <RootNamespace>Simple_Factory1</RootNamespace>
   </PropertyGroup>
 
 </Project>
